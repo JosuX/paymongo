@@ -1,0 +1,16 @@
+https://developers.paymongo.com/reference/the-payment-intent-object
+https://developers.paymongo.com/reference/create-a-paymentintent
+https://developers.paymongo.com/reference/retrieve-a-paymentintent
+https://developers.paymongo.com/reference/attach-to-paymentintent
+https://developers.paymongo.com/reference/create-a-paymentmethod
+https://developers.paymongo.com/reference/retrieve-a-paymentmethod
+https://developers.paymongo.com/reference/update-a-paymentmethod
+https://developers.paymongo.com/reference/payment-source
+https://developers.paymongo.com/reference/retrieve-a-payment
+https://developers.paymongo.com/reference/list-all-payments
+https://developers.paymongo.com/reference/customer-resource
+https://developers.paymongo.com/reference/retrieve-customer
+https://developers.paymongo.com/reference/edit-customer
+https://developers.paymongo.com/reference/delete-a-customer
+https://developers.paymongo.com/reference/retrieve-customer-payment-method
+https://developers.paymongo.com/reference/delete-a-payment-method-of-a-customer
