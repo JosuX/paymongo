@@ -31,8 +31,16 @@
     "maya",
     "philippines"
   ],
-  "author": "",
+  "author": "Jofer Usa <joferusa43@gmail.com> (https://github.com/JosuX)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosuX/paymongo.git"
+  },
+  "homepage": "https://github.com/JosuX/paymongo#readme",
+  "bugs": {
+    "url": "https://github.com/JosuX/paymongo/issues"
+  },
   "devDependencies": {
     "@types/node": "^25.2.0",
     "tsup": "^8.0.0",
