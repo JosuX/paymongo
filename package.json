@@ -1,5 +1,5 @@
 {
-  "name": "josuX/paymongo",
+  "name": "@josuX/paymongo",
   "version": "0.1.0",
   "description": "A class-based PayMongo API wrapper for TypeScript/JavaScript with singleton support",
   "main": "./dist/index.js",
