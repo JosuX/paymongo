@@ -30,7 +30,9 @@ export class HttpClient {
    * Builds the full URL with query parameters
    */
   private buildUrl(path: string, params?: Record<string, string | number | boolean | undefined>): string {
-    const url = new URL(path, this.config.baseUrl);
+    const base = this.config.baseUrl.replace(/\/+$/, '');
+    const cleanPath = path.startsWith('/') ? path : `/${path}`;
+    const url = new URL(`${base}${cleanPath}`);
 
     if (params) {
       Object.entries(params).forEach(([key, value]) => {
